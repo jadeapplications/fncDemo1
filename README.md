@@ -8,9 +8,9 @@ Note that two files are required for proper operation of this project
 ### Project Information
 ```
 Type              : C
-Version           : 01.0
+Version           : 1.0
 Author            : myke predko
-Firmware          : 40
+Firmware          : 42
 ```
 
 ### Release History:
